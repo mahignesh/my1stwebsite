@@ -1,0 +1,93 @@
+.heading{
+    text-align: center;
+ 
+    font-size: 40px;
+    margin: 15px 0 0 0;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+.title{
+    text-transform: capitalize;
+    text-align: center;
+    color: gray;
+    font-family: 'Comfortaa', cursive;
+    margin: 2px 0 0 0;
+}
+.info{
+    margin: 5% 0 0 15%;
+}
+.kli{
+    width: 20%;
+    height: 25%;
+    float: right ;
+    margin-right: 25px;
+}
+
+    
+    
+
+h1{
+    text-align: left;
+    font-family: 'Anton', sans-serif;
+}
+.border{
+    border-radius: 8px ;  
+    color: rgb(243, 7, 7);
+    border: 10px solid
+    
+       
+    
+
+}
+.cc{
+   background-color: blue;
+   color: white;
+}
+ /* body{ 
+    background-image: url("../images/bgimg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+      background-position: center; } */
+      
+    p{
+        font-family: 'Palette Mosaic', cursive;
+    }
+    .sd{
+        background-color: red;
+        
+    }  
+    .sd:hover{
+        background-color: #abff04;
+        
+    }
+      body{
+        animation-iteration-count: infinite;
+        animation-name: color;
+        animation-duration: 10s;
+        background: #FEAC5E;background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);
+        animation-timing-function: ease-in-out;
+    }
+
+ @keyframes color {
+  0%{background: #FEAC5E;background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);}
+  25%{background: #D38312; background: -webkit-linear-gradient(to right, #A83279, #D38312); background: linear-gradient(to right, #A83279, #D38312); }
+  50%{background: #d53369; background: -webkit-linear-gradient(to right, #cbad6d, #d53369);  background: linear-gradient(to right, #cbad6d, #d53369); }
+  75%{background: #3D7EAA;  background: -webkit-linear-gradient(to right, #FFE47A, #3D7EAA);background: linear-gradient(to right, #FFE47A, #3D7EAA);} 
+    
+  100%{background: #FEAC5E;background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);}
+
+      
+ }
+      
+
+.alt{
+    margin-bottom: 50px;}
+    
+    .box{
+        height: 100px;
+        width: 100px;
+        border: 2px solid blue;
+        align:center
+    }
+     
+
